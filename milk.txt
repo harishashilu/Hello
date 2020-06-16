@@ -1,0 +1,13 @@
+ Volume in drive C is OS
+ Volume Serial Number is AC71-C26C
+
+ Directory of C:\Users\haris\Documents
+
+16-06-2020  16:37    <DIR>          .
+16-06-2020  16:37    <DIR>          ..
+20-11-2019  13:48    <DIR>          Custom Office Templates
+16-06-2020  16:16               426 HelloWorld.class
+16-06-2020  16:09               310 Helloworld.java
+16-06-2020  16:37                 0 milk.txt
+               3 File(s)            736 bytes
+               3 Dir(s)  385,564,790,784 bytes free
