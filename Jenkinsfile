@@ -3,6 +3,7 @@ stage( 'scm checkout') {
 git 'https://github.com/harishashilu/Hello.git'
 }
 stage ( 'compile') {
- sh 'mvn clean package'
+ def mvnhome = tool name: 'maven3', type: 'maven'
+ sh "${mvnhome}/bin/mvn compile"
 }
 }
